@@ -1,0 +1,4 @@
+[33m[1mCMake Warning[0m at /home/medashan/ws_moveit/src/srdfdom/CMakeLists.txt:61 (message):
+  Locale nl_NL not available.  Locale test will not be meaningful.
+
+

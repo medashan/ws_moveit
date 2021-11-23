@@ -1,0 +1,4 @@
+<launch>
+    <node name="missing_permission_ex" pkg="missing_permission" type="missing_perm.py" output="screen" />
+</launch>
+

@@ -1,0 +1,8 @@
+prefix=/home/medashan/ws_moveit/install
+
+Name: missing_permission
+Description: Description of missing_permission
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

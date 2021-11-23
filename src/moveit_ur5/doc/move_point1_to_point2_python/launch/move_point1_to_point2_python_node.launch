@@ -1,0 +1,6 @@
+<launch>
+
+  <node name="move_point1_to_point2_python_node" pkg="moveit_ur5" type="move_point1_to_point2_python_node.py" respawn="false" output="screen">
+  </node>
+
+</launch>

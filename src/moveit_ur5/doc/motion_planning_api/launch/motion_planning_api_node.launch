@@ -1,0 +1,9 @@
+<launch>
+
+  <node name="motion_planning_api_node" pkg="moveit_ur5" type="motion_planning_api_node" respawn="false" output="screen">
+    <rosparam command="load" file="$(find ur5_e_moveit_config)/config/kinematics.yaml"/>
+    <param name="/planning_plugin" value="ompl_interface/OMPLPlanner"/>
+    <rosparam command="load" file="$(find ur5_e_moveit_config)/config/ompl_planning.yaml"/>
+  </node>
+
+</launch>

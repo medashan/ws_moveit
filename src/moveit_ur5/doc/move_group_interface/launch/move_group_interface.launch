@@ -1,0 +1,6 @@
+<launch>
+
+  <node name="move_group_interface_node" pkg="moveit_ur5" type="move_group_interface_node" respawn="false" output="screen">
+  </node>
+
+</launch>

@@ -1,0 +1,8 @@
+[ 12%] Built target robot_model_and_robot_state_node
+[ 25%] Built target planning_scene_ur5
+[ 37%] Built target planning_scene_ros_api_node
+[ 50%] Built target motion_planning_pipeline_node
+[ 62%] Built target pick_place_node
+[ 75%] Built target move_group_interface_node
+[ 87%] Built target motion_planning_api_node
+[100%] Built target move_point1_to_point2_node
